@@ -31,7 +31,7 @@ var data = [
   "Gadse",
   "#flirten<wbr>kannich",
   "Bell<wbr>gadse",
-  "Sonstige Kadse",
+  "Sonstige Gadse",
   "Lisa",
   "Laura",
   "#jhj",
