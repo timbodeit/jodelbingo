@@ -37,7 +37,8 @@ var data = [
   "#jhj",
   "das/dass seid/seit einzigste",
   "#danke<wbr>merkel",
-  "memax92"
+  "memax92",
+  "Irgendwas mit Boobies"
 ]
 
 var JSONBingo = {"squares": data.map(function(e){ return {"square": e} })};
