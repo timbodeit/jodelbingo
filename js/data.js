@@ -38,6 +38,7 @@ var data = [
   "das/dass seid/seit einzigste",
   "#danke<wbr>merkel",
   "memax92",
+  "Fotzenjäger Andi",
   "Irgendwas mit Boobies"
 ]
 
