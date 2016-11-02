@@ -1,5 +1,7 @@
-HTML5-bingo
-by J. Hobbs June 2012
+# Jodel Bingo
+
+Based on [HTML5-bingo](https://github.com/jeffehobbs/HTML5-bingo) by J. Hobbs June 2012
+
 ---
 
 WHAT IT IS:
@@ -17,4 +19,3 @@ WHAT IT IS:
 HOW TO USE:
 
 All data is kept in the "data.js" file. Customize the .json in the data.js file to change the language on the board.
-
