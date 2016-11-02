@@ -112,28 +112,43 @@ body {
    	background-color: red;
 }
 
-@media only screen
-and (min-device-width : 320px)
-and (max-device-width : 480px) {
+@media only screen and (max-width : 480px) {
+
+	* {
+		font-size: 9px;
+	}
 
 	#container {
-		width: 640;
-		margin: -7px 0px 0px -7px;
+		width: 100vw;
+	}
+
+	#board {
+		width: 100vw;
+	}
+	.square, .freesquare {
+		width: 20vw;
+		height: 20vw;
+		box-sizing: border-box;
 	}
 
 	#header {
 		font-size: 3.6em;
 		text-align: center;
+		width: 100vw;
 		padding: 20px 20px 12px 20px;
+		box-sizing: border-box;
 	}
 
 	#footer {
 		padding: 16px 20px 8px 20px;
 		font-size: 2.0em;
+		width: 100vw;
+		box-sizing: border-box;
 	}
 
 	.text {
 		font-size: 1.2em;
 		line-height: 1.2em;
+		word-wrap: break-word;
 	}
 }
